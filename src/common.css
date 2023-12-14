@@ -1,0 +1,39 @@
+.text-red {
+    color: red;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.h-24 {
+    height: 24px;
+}
+
+.h-20dvh {
+    height: 20vh; /* Corrected from 20dvh to 20vh */
+}
+
+.h-100dvh {
+    height: 100vh;
+}
+
+.w-100dwh {
+    width: 100vw; /* Corrected from 100dvh to 100vw */
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.float-right {
+    float: right;
+}
+
+.mb-5 {
+    margin-bottom: 5px;
+}

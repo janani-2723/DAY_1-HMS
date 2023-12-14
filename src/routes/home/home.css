@@ -1,0 +1,47 @@
+/* Reset some default styles for better consistency */
+body,
+h1,
+h2,
+h3,
+p,
+div,
+button {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* General styles for the container */
+.h-100dvh {
+  height: 100vh;
+}
+
+.w-100dwh {
+  width: 100vw;
+}
+
+/* Header styles */
+.h-20dvh {
+  height: 20vh;
+}
+
+/* Sign Out button styles */
+.float-right {
+  float: right;
+  margin-right: 20px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.float-right:hover {
+  background-color: #2980b9;
+}
+.hello{
+    color: #3498db;
+}
